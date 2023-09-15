@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakshanwd
 - 👀 I’m interested in Golang, Android, Kotlin, Java, Vue-JS, React-JS
-- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/lakshanwd)
+- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/lakshanwd) 
 <!--
 **lakshanwd/lakshanwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
